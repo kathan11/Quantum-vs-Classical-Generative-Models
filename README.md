@@ -18,7 +18,7 @@ Our goal is to investigate whether quantum models offer any practical advantages
 
 ## 🧬 Dataset
 
-Molecular fingerprints derived from SMILES strings using RDKit. (Not included due to restrictions.)
+Molecular fingerprints derived from SMILES strings using RDKit.
 
 ## 📊 Evaluation Metrics
 

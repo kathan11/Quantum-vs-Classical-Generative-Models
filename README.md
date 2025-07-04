@@ -6,9 +6,9 @@ Our goal is to investigate whether quantum models offer any practical advantages
 
 ## 📄 Project Components
 
-- `code/model_comparison.py`: Core implementation of QCBM, VAE, and WGAN models
-- `report/QML_Report.pdf`: Detailed technical report with methodology and results
-- `presentation/Quantum_Presentation.pdf`: Final presentation slides
+- `QML_Code.ipynb`: Core implementation of QCBM, VAE, and WGAN models
+- `QML_Report.pdf`: Detailed technical report with methodology and results
+- `QML_Final_Presentation.pdf`: Final presentation slides
 
 ## 🧪 Models Included
 
